@@ -1,4 +1,4 @@
-# TheEstateIndex
+# The Estate Index
 
 To start your Phoenix server:
 
